@@ -5,7 +5,14 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
-        <p>lonestar lawncare&nbsp;</p>
+        <p>
+          lonestar lawncare&nbsp;
+          <br /> corsicana, tx 75110&nbsp;
+          <br />
+          <br />
+          Jaxson Brown
+          <br />
+        </p>
       </div>
     </main>
   );
